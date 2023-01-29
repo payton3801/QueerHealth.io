@@ -48,7 +48,7 @@ label {
 }
 
 .wrapper > * {
-  padding: 10px;
+/*   padding: 10px; */
   flex: 1 100%;
 }
 
@@ -90,7 +90,7 @@ body {
 }
 
 .std{
-  color: #d1b958;
+  color: #8a8a01;
   background-color: white;
 }
 
@@ -131,7 +131,7 @@ body {
   height: 70px;
 }
 .press{
-  object-position: bottom -8px right -5px;
+  object-position: bottom -10px right -40px;
   color: black;
 }
 
@@ -140,6 +140,7 @@ body {
   padding: 2em; 
 } */
 .footer {
+    background: #F01D7F; 
   display: flex;
   align-items: center;
   justify-content: center;
